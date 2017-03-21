@@ -1,0 +1,393 @@
+.box_one {
+	width: 940px;
+	height: 1386px;
+	position: relative;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin: 0 auto; 
+}
+.box_two {
+	position: relative;
+	width: 110px;
+	height: 61px;
+	background-color: #F08080;
+}
+.pos_one {
+	position: absolute;
+	left: 4px;
+	bottom: 2px;
+	font-size: 12px;
+	font-family: SimHei;
+	color: #ffffff;
+}
+.pos_two{
+	position: absolute;
+	right: 20px;
+	top: 45px;
+	font-size: 12px;
+	font-family: SimHei;
+	color: #d45d5c;
+}
+.pos_four{
+	width: 641px;
+	height: 301px;
+	background: url('../img/bg1.jpg');
+}
+.pos_five{
+	width :191px;
+	height: 301px;
+	background-color: #2E8B57;
+	/* for IE */
+	opacity: 0.4;
+}
+.pos_six{
+	width :191px;
+	height: 301px;
+	background-color: #CD5C5C;
+	/* for IE */
+	opacity: 0.4;
+	float: right;
+}
+.pos_eight{
+	width: 240px;
+	height: 300px;
+	float: right;
+}
+.pos_seven {
+	border: 1px solid #938e8c;
+	position: relative;
+	top: -8px;
+}
+.pos_nine {
+	border: 1px solid #cc8091;
+}
+.size{
+	color: #000000;
+	font-family: Microsoft YaHei;
+	font-size: 20px;
+	text-indent:40px;
+}
+.size_one{
+	font-size: 12px;
+	color: #676767;
+	font-family: KaiTi;
+	
+}
+.size_two{
+	font-size: 108px;
+	color: #75b86b;
+	font-family: Microsoft YaHei;
+	font-style: italic;
+}
+.size_three{
+	display: inline-block;
+	font-size: 55px;
+	color: #cc8091;
+	font-family: Microsoft YaHei;
+}
+.size_four{
+	font-size: 21px;
+	color: #cc8091;
+	font-family: Microsoft YaHei;
+	display: block;
+}
+.size_five{
+	font-size: 12px;
+	color: #676767;
+	font-family: Microsoft YaHei;
+	font-family: KaiTi;
+}
+.size_six {
+	display: inline-block;
+}
+.size_seven {
+	text-decoration: underline;
+}
+.font1{
+	font-size: 16px;
+	color: #418c59;
+	font-weight: bold;
+	font-family: Microsoft YaHei;
+	text-decoration: underline;
+}
+.font2{
+	position: relative;
+	width: 216px;
+	height:160px;
+	top: 20px;
+	display: inline-block;
+}
+.font3{
+	font-size: 12px;
+	color: #767777;
+	font-family: SimSun;
+	position: relative;
+	top: 16px;
+}
+.font4{
+	position: relative;
+	width: 216px;
+	height: 160px;
+	top: 20px;
+	left: 16px;
+	display: inline-block;
+
+}
+.font5{
+	font-size: 16px;
+	color: #d2994f;
+	font-weight: bold;
+	font-family: Microsoft YaHei;
+	text-decoration: underline;
+}
+.font6{
+	font-size: 12px;
+	color: #231815;
+	opacity: 0.7;
+	font-family: Microsoft YaHei;
+	position: relative;
+	top: 13px;
+} 
+.font9{
+	position: relative;
+	width: 216px;
+	height: 160px;
+	top: 19px;
+	left: 32px;
+	display: inline-block;
+}
+.font7{
+	font-size: 16px;
+	color: #cc7680;
+	font-weight: bold;
+	font-family: Microsoft YaHei;
+	text-decoration: underline;
+}
+.font8{
+	font-size: 12px;
+	color: #cd4a48;
+	opacity: 0.7;
+	font-style: italic;
+	font-family: Microsoft YaHei;
+	position: relative;
+	top: 13px;
+}
+.font10{
+	font-size: 43px;
+	color: #11456b;
+	font-family: SimHei;
+	font-weight: bold;
+	
+	position: relative;
+	top: 50px;
+}
+.font11{
+	font-size: 72px;
+	color: #f5e327;
+	font-family: SimHei;
+	font-style: italic;
+}
+.font12{
+	width: 423px;
+	height: 30px;
+	clear: left;
+}
+.font13{
+	position: relative;
+	top: 4px;
+	font-size: 33px;
+	color: #11456b;
+	font-family: SimHei;
+	font-weight: bold;
+}
+.font14{
+	float: left;
+	font-size: 70px;
+	color: #f5e327;
+	font-family: Microsoft YaHei;
+}
+.font15{
+	font-weight: normal;
+	font-size: 12px;
+	color: #767777;
+	font-family: SimSun
+}
+.size1{
+	float: right;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.size2{
+	margin-left: 5%;
+	margin-right: 24%;
+}
+.fen{
+	width: 458px;
+	height:257px;
+	position: relative;
+	top: 65px;
+	right: 11px;
+	float: right;
+	background: url('../img/p1.jpg');
+}
+.fen1{
+	position: relative;
+	top: 76%;
+	width :458px;
+	height: 61px;
+	background-color: grey;
+	/* for IE */
+	opacity: 0.4;
+}
+.fen2{
+	width: 3px;
+	height: 44px;
+	color: #72b16a;
+	margin-left: 30px;
+}
+.fen3{
+	font-size: 42px;
+}
+.fen4{
+	position: relative;
+	top: -30px;
+	right: -50px; 
+}
+.fen5{
+	font-size: 26px;
+	color: #ffffff;
+	font-family:Microsoft YaHei;
+}
+.fen6{
+	font-size: 12px;
+	color: #72b16a;
+	font-style: italic;
+	font-family: Microsoft YaHei;
+	word-spacing:140%;
+}
+.fen7{
+	position: relative;
+	top: 310px;
+	right: -50%;
+	width: 459px;
+	height: 318px;
+	padding-top: 20px;
+	background-color:#F5F5DC;
+}
+ul{
+
+list-style-image: url(../img/sj.gif)
+}
+ul li{
+	font-size: 16px;
+	color: #5a5b5b;
+	font-family: SimSun;
+	text-align: left;
+	line-height: 40px;
+}
+.fen8{
+	font-size: 12px;
+	color: #5a5b5b;
+	text-align: right;
+}
+.fen9{
+	width: 260px;
+	height: 160px;
+	background-color: #A52A2A;
+	padding-left: 10px;
+}
+.fen10{
+	font-size: 110px;
+	color: #ffffff;
+	font-family: Microsoft YaHei;
+}
+.fen11{
+	position: relative;
+	top: -78px;
+	right: -72px;
+	width: 2px;
+	height: 86px;
+	background-color: #ffffff;
+	float: left;
+}
+.fen12{
+	font-size: 21px;
+	color: #ffffff;
+	font-family: SimHei;
+	font-style: italic;
+	line-height: 24px;
+
+}
+.fen13{
+	position: relative;
+	top: -112px;
+	right: -78px;
+}
+.fen14{
+	font-size: 12px;
+	color: #ffffff;
+	font-family:SimHei;
+	line-height: 6px;
+}
+.fen15{
+	position: relative;
+	top:-173px;
+	right: -207px;
+	width: 160px;
+	height:217px;
+	float: right;
+}
+.fen16{
+	float: left;
+	position: relative;
+	left: -40px;
+	top:-10px;
+	width: 50px;
+	height: 22px;
+	font-size: 72px;
+	color: #d45d5c;
+	font-family:SimHei;
+}
+.fen17{
+	font-size: 14px;
+	color: #5a5b5b;
+	font-family:SimHei;
+	font-style: italic;
+	line-height: 16px;
+}
+.fen19{
+	float: left;
+	position: relative;
+	left: 80px;
+	top:30px;
+	width: 0px;
+	height: 22px;
+	font-size: 72px;
+	color: #d45d5c;
+	font-family:SimHei;
+}
+.fen20{
+	position: relative;
+	top: 40px;
+	right: 622px;
+	width: 1071px;
+	height: 1px;
+	color: #938e8c;
+}
+.fen22{
+	float: right;
+	position: relative;
+	top: -12px;
+	font-size: 12px;
+	color: #d45d5c;
+	font-family:SimHei;
+}
+.box_three {
+	position: absolute;
+	bottom: 130px;
+	width: 940px;
+	position: relative;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin: 0 auto; 
+}

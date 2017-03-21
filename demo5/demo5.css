@@ -1,0 +1,24 @@
+.boxone {
+	width: 400px;
+	height: 200px;
+	background-color: #ccc;
+	margin: -100px auto auto -200px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+.boxtwo {
+	width: 50px;
+	height: 50px;
+	background-color: #fc0;
+	border-radius: 0 0 50px 0;
+}
+.boxthree {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 50px;
+	height: 50px;
+	background-color: #fc0;
+	border-radius: 50px 0 0 0;
+}

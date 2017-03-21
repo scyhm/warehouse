@@ -1,0 +1,62 @@
+.boxone {
+	padding: 20px;
+	background-color: #eee;
+	border: 1px solid #999;
+	position: relative;
+}
+.boxtwo {
+	width: 180px;
+	float: left ;
+	padding: 20px;
+	margin-right: 20px;
+	background-color: white;
+	border: 1px solid #999;
+}
+.boxthree {
+	width: 60px;
+	height: 60px;
+	padding: 20px;
+	background-color: #eee;
+	border: 1px solid #999;
+	display: inline-block;
+}
+.boxfour {
+	padding: 20px;
+	margin-left:240px;
+	margin-right:180px; 
+	background-color: white;
+	border: 1px solid #999;
+}
+.boxfive {
+	width: 122px;
+	padding: 20px;
+	float: right;
+	background-color: white;
+	border: 1px solid #999;
+	
+}
+.boxsix {
+	width: 80px;
+	height: 80px;
+	padding: 20px;
+	background-color: #eee;
+	border: 1px solid #999;
+	text-align: center;
+
+}
+.boxseven {
+	width: 80px;
+	height: 80px;
+	padding: 20px;
+	margin-top: 20px;
+	background-color: #eee;
+	border: 1px solid #999;
+	text-align: center;
+}
+.fontone {
+	display: block;
+
+}
+.fonttwo {
+	float: right ;
+}
